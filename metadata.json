@@ -1,7 +1,7 @@
 {
   "name": "Blink Pop Coin",
   "symbol": "BPC",
-  "uri": "https://example.com/metadata.json",
+  "uri": "https://raw.githubusercontent.com/blinkpop/BPC/refs/heads/main/metadata.json",
   "seller_fee_basis_points": 500,
   "creators": [
     {
